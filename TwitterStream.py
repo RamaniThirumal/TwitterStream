@@ -26,10 +26,10 @@ API_ENDPOINT_URL = 'https://stream.twitter.com/1.1/statuses/filter.json'
 USER_AGENT = 'TwitterStream 1.0' # This can be anything really
 
 # You need to replace these with your own values
-OAUTH_KEYS = {'consumer_key': <Consumer key>,
-              'consumer_secret': <Consumer secret>,
-              'access_token_key': <Token key>,
-              'access_token_secret': <Token secret>}
+OAUTH_KEYS = {'consumer_key': 40RuMo3H5rI34svk71GstA,
+              'consumer_secret': dGHPLRQaXBgpWBGrkh6itCMGl5tGEWRmq4iBx1s9xtA,
+              'access_token_key': 1414918208-yG4rXPB3iUoOokws4DeaH158ajTDz6V6aAnnULi,
+              'access_token_secret': BHtpZ4B24t4enE1GyCQz5vts6d98DURiG0di8g3S5DU}
 
 # These values are posted when setting up the connection
 POST_PARAMS = {'include_entities': 0,
